@@ -78,11 +78,7 @@ Some of my most notable work includes:
 
 ---
 
-### 📊 GitHub Stats
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaello129&show_icons=true&theme=radical)
-
----
 
 ### 🌱 Currently Learning:
 - **Flutter** for mobile app development
